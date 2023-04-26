@@ -3,7 +3,7 @@
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr-Soares&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yNsLc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que venho Estudando!
 
